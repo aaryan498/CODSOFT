@@ -15,13 +15,13 @@
 
 ## 📝 Table of Contents
 
-[![Structure](https://img.shields.io/badge/-📁_Repository_Structure-gray?style=flat)](#-repository-structure)
-[![Overview](https://img.shields.io/badge/-🧠_Projects_Overview-gray?style=flat)](#-projects-overview)
-[![Internship](https://img.shields.io/badge/-🏁_Internship_Summary-gray?style=flat)](#-internship-summary)
-[![Skills](https://img.shields.io/badge/-🧰_Skills_Demonstrated-gray?style=flat)](#-skills-demonstrated)
-[![About](https://img.shields.io/badge/-👤_About_Me-gray?style=flat)](#-about-me)
-[![Feedback](https://img.shields.io/badge/-📣_Feedback_&_Contribution-gray?style=flat)](#-feedback--contribution)
-[![Support](https://img.shields.io/badge/-💖_Support-gray?style=flat)](#-support)
+1. [![Structure](https://img.shields.io/badge/-📁_Repository_Structure-gray?style=flat)](#-repository-structure)  
+2. [![Overview](https://img.shields.io/badge/-🧠_Projects_Overview-gray?style=flat)](#-projects-overview)  
+3. [![Internship](https://img.shields.io/badge/-🏁_Internship_Summary-gray?style=flat)](#-internship-summary)  
+4. [![Skills](https://img.shields.io/badge/-🧰_Skills_Demonstrated-gray?style=flat)](#-skills-demonstrated)  
+5. [![About](https://img.shields.io/badge/-👤_About_Me-gray?style=flat)](#-about-me)  
+6. [![Feedback](https://img.shields.io/badge/-📣_Feedback_&_Contribution-gray?style=flat)](#-feedback--contribution)  
+7. [![Support](https://img.shields.io/badge/-💖_Support-gray?style=flat)](#-support)
 
 ---
 
@@ -91,10 +91,10 @@ A customizable password generator:
 
 ## 🧰 Skills Demonstrated
 
-- ✅ Python Fundamentals
-- ✅ CLI Application Design
-- ✅ Randomization & Logic Building
-- ✅ Clean Code & Commenting
+- ✅ Python Fundamentals  
+- ✅ CLI Application Design  
+- ✅ Randomization & Logic Building  
+- ✅ Clean Code & Commenting  
 - ✅ Use of Standard Libraries (`random`, `string`)
 
 ---
