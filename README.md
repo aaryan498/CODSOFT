@@ -13,16 +13,35 @@
 
 ---
 
+## 📝 Table of Contents
+
+[![Structure](https://img.shields.io/badge/-📁_Repository_Structure-gray?style=flat)](#-repository-structure)
+[![Overview](https://img.shields.io/badge/-🧠_Projects_Overview-gray?style=flat)](#-projects-overview)
+[![Internship](https://img.shields.io/badge/-🏁_Internship_Summary-gray?style=flat)](#-internship-summary)
+[![Skills](https://img.shields.io/badge/-🧰_Skills_Demonstrated-gray?style=flat)](#-skills-demonstrated)
+[![About](https://img.shields.io/badge/-👤_About_Me-gray?style=flat)](#-about-me)
+[![Feedback](https://img.shields.io/badge/-📣_Feedback_&_Contribution-gray?style=flat)](#-feedback--contribution)
+[![Support](https://img.shields.io/badge/-💖_Support-gray?style=flat)](#-support)
+
+---
+
 ## 📁 Repository Structure
 
 ```
 CODSOFT/
 ├── TASK-1-CALCULATOR/
-│   └── calculator.py
+│   ├── calculator.py
+│   └── README.md
+│
 ├── TASK-2-ROCK-PAPER-SCISSORS-GAME/
-│   └── game.py
+│   ├── game.py
+│   └── README.md
+│
 ├── TASK-3-PASSWORD-GENERATOR/
-│   └── password.py
+│   ├── password.py
+│   └── README.md
+│
+└── README.md  ← (Main README for the full internship repo)
 ```
 
 ---
@@ -64,9 +83,9 @@ A customizable password generator:
 ## 🏁 Internship Summary
 
 - 👨‍💻 **Organization:** [![CodSoft Badge](https://img.shields.io/badge/CodSoft-Company-blueviolet?logo=google)](https://www.codsoft.in/)
-- 🎓 **Role:** Python Programming Intern
-- 📅 **Timeline:** July – August 2025
-- 🔧 **Tasks Completed:** 3 out of 3 ✅
+- 🎓 **Role:** Python Programming Intern  
+- 📅 **Timeline:** July – August 2025  
+- 🔧 **Tasks Completed:** 3 out of 3 ✅  
 
 ---
 
@@ -89,25 +108,25 @@ Currently building core development skills for:
 - 💻 Hackathons & Paid Internships  
 - 🤖 Future goals in SDE / AI-ML engineering
 
-🔗 [![GitHub](https://img.shields.io/badge/GitHub-Aaryan%20Kumar-181717?logo=github)](https://github.com/aaryan498)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/aaryan498)
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-Aaryan_Kumar-181717?logo=github&style=for-the-badge)](https://github.com/aaryan498)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan_Kumar-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
 
 ---
 
 ## 📣 Feedback & Contribution
 
 If you’d like to suggest improvements or find a bug:
-- 📩 Open an issue
-- 🌟 Star the repo if you liked it
-- 💬 Drop a comment on LinkedIn or GitHub!
+- 📩 Open an issue  
+- 🌟 Star the repo if you liked it  
+- 💬 Drop a comment on LinkedIn or GitHub!  
 
 ---
 
 ## 💖 Support
 
 If you found these projects helpful:
-- ⭐ Star this repository
-- 🔁 Share with peers
-- 👣 Follow me for more
+- ⭐ Star this repository  
+- 🔁 Share with peers  
+- 👣 Follow me for more  
 
 Thanks for checking it out! 🙌
