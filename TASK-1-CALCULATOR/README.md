@@ -1,15 +1,28 @@
-<h1 align="center">🔢 Python Calculator</h1>
+<div align="center">
 
-<p align="center">
-  A command-line calculator built using Python.<br>
-  <b>Task 1</b> from my <i>CodSoft Python Programming Internship</i>
-</p>
+# 🔢 Python Calculator
 
-<p align="center">
-  [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)]()
-  [![CodSoft Internship](https://img.shields.io/badge/CodSoft-Internship-%233D8BFD?logo=codeforces&logoColor=white)](https://www.codsoft.in)
-</p>
+_A command-line calculator built using Python._
+
+### Task 1 from my **CodSoft Python Programming Internship**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)]()
+[![CodSoft Internship](https://img.shields.io/badge/CodSoft-Internship-%233D8BFD?logo=codeforces&logoColor=white)](https://www.codsoft.in)
+
+</div>
+
+---
+
+## 📝 Table of Contents
+
+- [📜 Description](#-description)
+- [🚀 Features](#-features)
+- [🧠 How to Use](#-how-to-use)
+- [📂 File Structure](#-file-structure)
+- [🏁 Project Status](#-project-status)
+- [🏢 Internship Info](#-internship-info)
+- [🙋‍♂️ Author](#-author)
 
 ---
 
@@ -37,7 +50,7 @@ The program runs in a loop until the user chooses to exit.
 
 ## 🧠 How to Use
 
-```
+```bash
 1. Ensure Python 3.10+ is installed
 2. Open terminal or command prompt
 3. Navigate to the project folder
@@ -66,22 +79,20 @@ TASK-1-CALCULATOR/
 
 ## 🏢 Internship Info
 
-- 🎯 Internship: **CodSoft Python Programming Internship**
+- 🎯 Internship: **CodSoft Python Programming Internship**  
 - 📅 Duration: **July 15 – August 15, 2025**
 
-<a href="https://www.codsoft.in/">
-  <img src="https://img.shields.io/badge/CodSoft-Official%20Website-blueviolet?style=for-the-badge&logo=windows&logoColor=white">
-</a>
+[![CodSoft Official Website](https://img.shields.io/badge/CodSoft-Official%20Website-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://www.codsoft.in)
 
 ---
 
 ## 🙋‍♂️ Author
 
-<p align="center">
-  <a href="https://github.com/aaryan498">
-    <img src="https://img.shields.io/badge/GitHub-@aaryan498-black?style=for-the-badge&logo=github">
-  </a><br><br>
-  <a href="https://www.linkedin.com/in/aaryan-kumar-ai-498-coder">
-    <img src="https://img.shields.io/badge/LinkedIn-Aaryan%20Kumar-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<div align="center">
+
+[![GitHub - Aaryan Kumar](https://img.shields.io/badge/GitHub-Aaryan_Kumar-181717?style=for-the-badge&logo=github)](https://github.com/aaryan498)  
+[![LinkedIn - Aaryan Kumar](https://img.shields.io/badge/LinkedIn-Aaryan_Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
+
+</div>
+
+---
