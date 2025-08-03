@@ -14,18 +14,6 @@ _A command-line calculator built using Python._
 
 ---
 
-## 📝 Table of Contents
-
-- [📜 Description](#-description)
-- [🚀 Features](#-features)
-- [🧠 How to Use](#-how-to-use)
-- [📂 File Structure](#-file-structure)
-- [🏁 Project Status](#-project-status)
-- [🏢 Internship Info](#-internship-info)
-- [🙋‍♂️ Author](#-author)
-
----
-
 ## 📜 Description
 
 This is a simple and interactive terminal-based calculator made in Python.  
