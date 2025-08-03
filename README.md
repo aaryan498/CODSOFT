@@ -1,11 +1,13 @@
 # 🚀 CODSOFT Internship Projects – Python Programming
 
-![GitHub top language](https://img.shields.io/github/languages/top/aaryan498/CODSOFT)
-![GitHub last commit](https://img.shields.io/github/last-commit/aaryan498/CODSOFT)
-![GitHub repo size](https://img.shields.io/github/repo-size/aaryan498/CODSOFT)
-![Forks](https://img.shields.io/github/forks/aaryan498/CODSOFT?style=social)
-![Stars](https://img.shields.io/github/stars/aaryan498/CODSOFT?style=social)
-![Views](https://komarev.com/ghpvc/?username=aaryan498&label=Views&color=blue)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/aaryan498/CODSOFT" />
+  <img src="https://img.shields.io/github/last-commit/aaryan498/CODSOFT" />
+  <img src="https://img.shields.io/github/repo-size/aaryan498/CODSOFT" />
+  <img src="https://komarev.com/ghpvc/?username=aaryan498&label=Profile+Views&color=blue" />
+  <img src="https://img.shields.io/github/forks/aaryan498/CODSOFT?style=social" />
+  <img src="https://img.shields.io/github/stars/aaryan498/CODSOFT?style=social" />
+</p>
 
 > ✅ This repository contains all **Python projects** I completed as part of my **CodSoft Virtual Internship (Python Programming)** in **July–August 2025**.
 
@@ -87,8 +89,8 @@ Currently building core development skills for:
 - 💻 Hackathons & Paid Internships  
 - 🤖 Future goals in SDE / AI-ML engineering
 
-🔗 [![GitHub](https://img.shields.io/badge/GitHub-aaryan498-181717?logo=github)](https://github.com/aaryan498)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaryan498-blue?logo=linkedin)](https://www.linkedin.com/in/aaryan498)
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-Aaryan%20Kumar-181717?logo=github)](https://github.com/aaryan498)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaryan%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/aaryan498)
 
 ---
 
