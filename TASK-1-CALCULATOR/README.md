@@ -84,3 +84,14 @@ TASK-1-CALCULATOR/
 </div>
 
 ---
+
+## 💬 Help & Support
+
+If you face any issues running this project or have any doubts regarding the code:  
+💡 **Feel free to comment on my LinkedIn post — I'm happy to help!**
+
+<div align="center">
+
+[![Comment on LinkedIn](https://img.shields.io/badge/Need_Help%3F_Comment_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/aaryan-kumar-ai-498-coder_python-internship-codsoft-activity-7357403072924454912-IgMl?utm_source=share&utm_medium=member_android&rcm=ACoAAFxqlpgBiTnkrCNekCuz5lwACzH6vXUUKvA)
+
+</div>
