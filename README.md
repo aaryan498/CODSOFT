@@ -3,7 +3,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/aaryan498/CODSOFT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aaryan498/CODSOFT)
 ![GitHub repo size](https://img.shields.io/github/repo-size/aaryan498/CODSOFT)
-![View Count](https://komarev.com/ghpvc/?username=aaryan498&label=Views&color=blue)
+![Forks](https://img.shields.io/github/forks/aaryan498/CODSOFT?style=social)
+![Stars](https://img.shields.io/github/stars/aaryan498/CODSOFT?style=social)
+![Views](https://komarev.com/ghpvc/?username=aaryan498&label=Views&color=blue)
 
 > ✅ This repository contains all **Python projects** I completed as part of my **CodSoft Virtual Internship (Python Programming)** in **July–August 2025**.
 
@@ -27,77 +29,83 @@ CODSOFT/
 
 ### 🔢 TASK 1 – Calculator
 A terminal-based calculator supporting basic arithmetic operations:
-- Addition, Subtraction, Multiplication, Division
-- Uses Python’s `match-case` structure
-- Repeats until user exits
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division  
+🔁 Built using Python’s `match-case` statement and loops.
 
-📂 [`calculator.py`](TASK-1-CALCULATOR/calculator.py)
+📂 [`calculator.py`](https://github.com/aaryan498/CODSOFT/blob/main/TASK-1-CALCULATOR/calculator.py)
 
 ---
 
 ### ✊ TASK 2 – Rock Paper Scissors Game
-A CLI-based interactive Rock-Paper-Scissors game:
-- Compete with computer
-- First to score *N* wins
-- Uses randomness and user input handling
+An interactive CLI-based Rock-Paper-Scissors game:
+- 🎮 Play against the computer
+- 🏁 Customizable finishing score
+- 🤖 Built using `random` module and dictionaries
 
-📂 [`game.py`](TASK-2-ROCK-PAPER-SCISSORS-GAME/game.py)
-
----
-
-### 🔐 TASK 3 – Random Password Generator
-A secure password generator with user input customization:
-- User chooses total length, number of digits, and special characters
-- Uses `random`, `string`, and secure shuffling
-
-📂 [`password.py`](TASK-3-PASSWORD-GENERATOR/password.py)
+📂 [`game.py`](https://github.com/aaryan498/CODSOFT/blob/main/TASK-2-ROCK-PAPER-SCISSORS-GAME/game.py)
 
 ---
 
-## 🏁 Internship Details
+### 🔐 TASK 3 – Password Generator
+A customizable password generator:
+- 🧠 User defines length, digit count, and special chars
+- 🔒 Combines `random`, `string`, and shuffling
+- ✅ Ensures strong password generation with variety
 
-- 👨‍💻 **Company:** [CodSoft](https://www.codsoft.in/)
-- 📅 **Duration:** 1-month virtual internship (July–August 2025)
-- 🔧 **Role:** Python Programming Intern
-- ✅ **Completion:** All 3 tasks submitted as instructed
-
----
-
-## 📌 Skills Demonstrated
-
-- Python programming fundamentals
-- User input handling
-- Use of built-in modules: `random`, `string`
-- CLI-based application design
-- Looping, conditionals, and logic building
-- Clean code with comments
+📂 [`password.py`](https://github.com/aaryan498/CODSOFT/blob/main/TASK-3-PASSWORD-GENERATOR/password.py)
 
 ---
 
-## 💼 About Me
+## 🏁 Internship Summary
 
-I’m **Aaryan Kumar**, currently pursuing B.Tech and working actively on:
-- Python Programming
-- Full Stack Web Development
-- Hackathons & Internships
-
-📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/aaryan498/)**  
-🔗 **GitHub Portfolio:** [github.com/aaryan498](https://github.com/aaryan498)  
-✨ More projects coming soon!
+- 👨‍💻 **Organization:** [![CodSoft Badge](https://img.shields.io/badge/CodSoft-Company-blueviolet?logo=google)](https://www.codsoft.in/)
+- 🎓 **Role:** Python Programming Intern
+- 📅 **Timeline:** July – August 2025
+- 🔧 **Tasks Completed:** 3 out of 3 ✅
 
 ---
 
-## 📣 Feedback / Suggestions?
+## 🧰 Skills Demonstrated
 
-If you notice any bug or want to contribute an improvement, feel free to [open an issue](https://github.com/aaryan498/CODSOFT/issues) or leave a comment!
+- ✅ Python Fundamentals
+- ✅ CLI Application Design
+- ✅ Randomization & Logic Building
+- ✅ Clean Code & Commenting
+- ✅ Use of Standard Libraries (`random`, `string`)
+
+---
+
+## 👤 About Me
+
+Hi, I'm **Aaryan Kumar**, a B.Tech CSE student with a strong passion for coding and problem-solving.  
+Currently building core development skills for:
+
+- 🌐 Full Stack Web Development  
+- 💻 Hackathons & Paid Internships  
+- 🤖 Future goals in SDE / AI-ML engineering
+
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-aaryan498-181717?logo=github)](https://github.com/aaryan498)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaryan498-blue?logo=linkedin)](https://www.linkedin.com/in/aaryan498)
 
 ---
 
-## ⭐ Support
+## 📣 Feedback & Contribution
 
-If you find these projects helpful:
-- Give this repo a ⭐ star
-- Share with others
-- Follow me on GitHub!
+If you’d like to suggest improvements or find a bug:
+- 📩 Open an issue
+- 🌟 Star the repo if you liked it
+- 💬 Drop a comment on LinkedIn or GitHub!
 
 ---
+
+## 💖 Support
+
+If you found these projects helpful:
+- ⭐ Star this repository
+- 🔁 Share with peers
+- 👣 Follow me for more
+
+Thanks for checking it out! 🙌
