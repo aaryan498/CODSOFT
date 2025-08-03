@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python">
   <img src="https://img.shields.io/badge/Project-Type-Console-green">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
-  <img src="https://img.shields.io/badge/Internship-CodSoft-orange">
 </p>
 
 ---
@@ -59,7 +58,7 @@ TASK-1-CALCULATOR/
 
 ---
 
-## 🏁 Status
+## 🏁 Project Status
 
 <img src="https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge&logo=checkmarx">
 
@@ -67,14 +66,22 @@ TASK-1-CALCULATOR/
 
 ## 🏢 Internship Info
 
-<img src="https://img.shields.io/badge/Internship-CodSoft-blueviolet?style=for-the-badge&logo=windows&logoColor=white">
+- 🔸 This project is part of my **CodSoft Python Programming Internship**
+- 🗓 Duration: **July 15 – August 15, 2025**
+
+<a href="https://www.codsoft.in/">
+  <img src="https://img.shields.io/badge/CodSoft-Official%20Website-blueviolet?style=for-the-badge&logo=windows&logoColor=white">
+</a>
 
 ---
 
 ## 🙋‍♂️ Author
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Author-Aaryan%20Kumar-blue?style=for-the-badge&logo=github">
-  <a href="https://github.com/aaryan498"><img src="https://img.shields.io/badge/GitHub-@aaryan498-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/aaryan498"><img src="https://img.shields.io/badge/LinkedIn-Aaryan%20Kumar-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/aaryan498">
+    <img src="https://img.shields.io/badge/GitHub-@aaryan498-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/aaryan-kumar-ai-498-coder">
+    <img src="https://img.shields.io/badge/LinkedIn-Aaryan%20Kumar-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
