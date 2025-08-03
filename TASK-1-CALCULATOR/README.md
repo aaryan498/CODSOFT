@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
+  [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)]()
+  [![CodSoft Internship](https://img.shields.io/badge/CodSoft-Internship-%233D8BFD?logo=codeforces&logoColor=white)](https://www.codsoft.in)
 </p>
 
 ---
