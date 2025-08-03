@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python">
-  <img src="https://img.shields.io/badge/Project-Type-Console-green">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
 
@@ -23,25 +22,25 @@ It allows the user to perform:
 - ✖️ Multiplication  
 - ➗ Division  
 
-It continues in a loop until the user exits the program.
+The program runs in a loop until the user chooses to exit.
 
 ---
 
 ## 🚀 Features
 
-- Uses `match-case` statement (Python 3.10+)
-- User-friendly prompts
-- Repeat use without restarting the program
+- Uses `match-case` structure (Python 3.10+)
+- User-friendly interaction
+- Repeat calculations without restarting
 
 ---
 
 ## 🧠 How to Use
 
 ```
-1. Make sure Python 3.10+ is installed
+1. Ensure Python 3.10+ is installed
 2. Open terminal or command prompt
 3. Navigate to the project folder
-4. Run the file using:
+4. Run using:
    python calculator.py
 ```
 
@@ -66,8 +65,8 @@ TASK-1-CALCULATOR/
 
 ## 🏢 Internship Info
 
-- 🔸 This project is part of my **CodSoft Python Programming Internship**
-- 🗓 Duration: **July 15 – August 15, 2025**
+- 🎯 Internship: **CodSoft Python Programming Internship**
+- 📅 Duration: **July 15 – August 15, 2025**
 
 <a href="https://www.codsoft.in/">
   <img src="https://img.shields.io/badge/CodSoft-Official%20Website-blueviolet?style=for-the-badge&logo=windows&logoColor=white">
@@ -77,10 +76,10 @@ TASK-1-CALCULATOR/
 
 ## 🙋‍♂️ Author
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/aaryan498">
     <img src="https://img.shields.io/badge/GitHub-@aaryan498-black?style=for-the-badge&logo=github">
-  </a>
+  </a><br><br>
   <a href="https://www.linkedin.com/in/aaryan-kumar-ai-498-coder">
     <img src="https://img.shields.io/badge/LinkedIn-Aaryan%20Kumar-blue?style=for-the-badge&logo=linkedin">
   </a>
